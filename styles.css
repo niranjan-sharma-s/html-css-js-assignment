@@ -1,0 +1,16 @@
+*{
+    background-color:cornsilk;
+}
+
+#conatiner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #button {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top:2rem;
+  }
